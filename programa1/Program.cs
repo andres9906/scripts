@@ -17,14 +17,9 @@ namespace scripts
                 string input = Console.ReadLine();
                 Console.WriteLine(rgx.IsMatch(input));
                 Console.WriteLine("Desea seguir verificando direcciones? 0: Sí    1: No");
-                
+
                 i = Convert.ToInt32(Console.ReadLine());
             }
-            
-            //string input;
-            //Console.Write("Ingresar número decimal");
-            //input = Console.ReadLine();
-            //Console.WriteLine(input);
         }
     }
 }
