@@ -1,0 +1,11 @@
+D:\Compiladores\i+d\scripts\programa1_2\bin\Debug\netcoreapp3.0\programa1_2.exe
+D:\Compiladores\i+d\scripts\programa1_2\bin\Debug\netcoreapp3.0\programa1_2.deps.json
+D:\Compiladores\i+d\scripts\programa1_2\bin\Debug\netcoreapp3.0\programa1_2.runtimeconfig.json
+D:\Compiladores\i+d\scripts\programa1_2\bin\Debug\netcoreapp3.0\programa1_2.runtimeconfig.dev.json
+D:\Compiladores\i+d\scripts\programa1_2\bin\Debug\netcoreapp3.0\programa1_2.dll
+D:\Compiladores\i+d\scripts\programa1_2\bin\Debug\netcoreapp3.0\programa1_2.pdb
+D:\Compiladores\i+d\scripts\programa1_2\obj\Debug\netcoreapp3.0\programa1_2.csprojAssemblyReference.cache
+D:\Compiladores\i+d\scripts\programa1_2\obj\Debug\netcoreapp3.0\programa1_2.AssemblyInfoInputs.cache
+D:\Compiladores\i+d\scripts\programa1_2\obj\Debug\netcoreapp3.0\programa1_2.AssemblyInfo.cs
+D:\Compiladores\i+d\scripts\programa1_2\obj\Debug\netcoreapp3.0\programa1_2.dll
+D:\Compiladores\i+d\scripts\programa1_2\obj\Debug\netcoreapp3.0\programa1_2.pdb
