@@ -27,7 +27,7 @@ namespace programa2_2
                 }
                 else { Console.WriteLine("No valido");
                 }
-                Console.WriteLine("Desea seguir verificando número decimales? 0: Sí    1: No");
+                Console.WriteLine("Desea seguir verificando directorios? 0: Sí    1: No");
                 sww = Convert.ToInt32(Console.ReadLine());
             }
         }
